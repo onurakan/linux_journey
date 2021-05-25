@@ -14,7 +14,7 @@ tree
 # x : delete character
 # dd: delete line
 # ctrl + u : go one page up
-#
+# ctrl + d : go one page down
 
 
-#reference: https://github.com/engineer-man/youtube/blob/master/058/commands.sh
+# reference for some commands above: https://github.com/engineer-man/youtube/blob/master/058/commands.sh
