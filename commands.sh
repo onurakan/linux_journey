@@ -16,5 +16,7 @@ tree
 # ctrl + u : go one page up
 # ctrl + d : go one page down
 
+# transfer data from or to server
+curl -o <file> <url> -k
 
 # reference for some commands above: https://github.com/engineer-man/youtube/blob/master/058/commands.sh
