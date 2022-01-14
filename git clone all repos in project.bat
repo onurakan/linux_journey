@@ -1,5 +1,8 @@
 @echo OFF
 
+:: Author Onur Akan
+:: 22.03.2020
+
 set bitbucket_user_pass=%~1:%~2
 
 ::BURAYI HER SEFERINDE GUNCELLE
